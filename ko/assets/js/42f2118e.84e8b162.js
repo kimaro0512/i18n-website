@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunki_18_n_website=self.webpackChunki_18_n_website||[]).push([[2527],{2062:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/i18n-website/ko/blog/tags/hello","allTagsPath":"/i18n-website/ko/blog/tags","count":2}')}}]);
