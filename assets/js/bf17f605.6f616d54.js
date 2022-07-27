@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunki_18_n_website=self.webpackChunki_18_n_website||[]).push([[9320],{4072:e=>{e.exports=JSON.parse('{"permalink":"/i18n-website/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
